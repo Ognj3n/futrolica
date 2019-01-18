@@ -1,0 +1,29 @@
+hosting
+ssl cert
+payment
+custom drawing
+shiping methods
+invoice
+----------------
+HOSTING:
+	1. SiteGround	
+	2. BlueHost
+	3. HostMonster
+-----------------------
+SSL Cert:
+	1. Besplatno uz SiteGround
+-----------------------------
+PAYMENT:
+	1. plugin za cash on delivery
+	2. Instaliran plugin za Paypal, konfigurisati
+	3. Napraviti placjanje preko banke
+------------------------------------
+CUSTOM DRAWING:
+	1. Postoji par plugin-a, odabrati najbolji
+--------------------------------------
+SHIPING METHOD:
+	1. Vecina odradjeno, jos malo kofigurisati
+-----------------------------------------
+INVOICE:
+	1. Plugin za template instaliran, treba konfigurisati
+	2. Konfigurisati slanje invoice automatski

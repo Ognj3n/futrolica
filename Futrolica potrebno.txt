@@ -1,0 +1,11 @@
+- Izgled invoice mejla, tj. kako da izgleda mejl narudzbine + slika
+
+- Ikonice za korpu, drustvene mreze, call us, logout out, my account
+
+- logo fitrolica 
+
+- Tekst na dnu Home stranice
+
+- Font
+
+- Privacy i gdpr 
